@@ -1,0 +1,1 @@
+from pymycobot.mycobot import MyCobot#from pymycobot.genre import Angleimport timemc = MyCobot("/dev/arm", 115200)# mc.send_angles(angle,30)#mc.send_coords(coords, 30, 1) mc.power_on()mc.set_gripper_state(0, 60)# time.sleep(0.5)angle=[100.19, -18.19, 0.35, 24.25, -16.69, -49.13]mc.send_angles(angle,80)print("OK")

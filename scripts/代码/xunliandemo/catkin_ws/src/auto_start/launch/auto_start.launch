@@ -1,0 +1,5 @@
+<launch>
+	<include file="/home/robuster/mr300_ws/src/robuster_mr/robuster_mr_bringup/launch/robuster_base.launch"/>
+
+	<include file="/home/robuster/mr300_ws/src/logitech_teleop/launch/logitech_teleop.launch"/>
+</launch>

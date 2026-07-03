@@ -1,0 +1,9 @@
+rlaunch robuster_mr_navigation navigation.launch
+
+rosrun robuster_mr_navigation save_initial_pose.py
+
+rosrun robuster_mr_navigation auto_return.py
+
+cd /home/robuster/beetle_ai/scripts/111
+python start.py
+python text1.py

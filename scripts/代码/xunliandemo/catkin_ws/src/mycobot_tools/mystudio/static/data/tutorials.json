@@ -1,0 +1,121 @@
+{
+    "tutorials_one": {
+        "title": {
+            "English": "The unboxing video of myCobot",
+            "Chinese": "myCobot小象机械臂开箱视频",
+            "Japanese": "Mycobotの非ボクシングビデオ"
+        },
+        "img": {
+            "English": "static/videoCovers/en_openbox.png",
+            "Chinese": "static/videoCovers/cn_openbox.png",
+            "Japanese": "static/videoCovers/en_openbox.png"
+        },
+        "viewonline": {
+            "English": "https://youtu.be/Lwi8UoihzNc",
+            "Chinese": "https://www.bilibili.com/video/BV1To4y1f71P",
+            "Japanese": "https://youtu.be/Lwi8UoihzNc"
+        }
+    },
+    "tutorials_two": {
+        "title": {
+            "English": "myCobot——\"Drag&Teach\" Tutorials",
+            "Chinese": "myCobot六自由度桌面机械臂拖动示教demo",
+            "Japanese": "myCobot——\"Drag&Teach\" チュートリアル"
+        },
+        "img": {
+            "English": "static/videoCovers/en_Drag&Teach.png",
+            "Chinese": "static/videoCovers/cn_Drag&Teach.png",
+            "Japanese": "static/videoCovers/en_Drag&Teach.png"
+        },
+        "viewonline": {
+            "English": "https://youtu.be/WzrbOrdQop0",
+            "Chinese": "https://www.bilibili.com/video/BV16t4y167vw",
+            "Japanese": "https://youtu.be/WzrbOrdQop0"
+        }
+    },
+    "tutorials_three": {
+        "title": {
+            "English": "myCobot —— inroduce the limit",
+            "Chinese": "myCobot小象机械臂限位介绍",
+            "Japanese": "Mycobot --限界を推論する"
+        },
+        "img": {
+            "English": "static/videoCovers/en_limit.png",
+            "Chinese": "static/videoCovers/cn_limit.png",
+            "Japanese": "static/videoCovers/en_limit.png"
+        },
+        "viewonline": {
+            "English": "https://youtu.be/PUeU-mynljw",
+            "Chinese": "https://www.bilibili.com/video/BV11T4y1N7zz",
+            "Japanese": "https://youtu.be/PUeU-mynljw"
+        }
+    },
+    "tutorials_four": {
+        "title": {
+            "English": "myCobot——MainControl Tutorials",
+            "Chinese": "myCobot小象机械臂MainControl烧录教程",
+            "Japanese": "myCobot——MainControl チュートリアル"
+        },
+        "img": {
+            "English": "static/videoCovers/en_MainControl.png",
+            "Chinese": "static/videoCovers/cn_MainControl.png",
+            "Japanese": "static/videoCovers/en_MainControl.png"
+        },
+        "viewonline": {
+            "English": "https://youtu.be/VKd8b989M8g",
+            "Chinese": "https://www.bilibili.com/video/BV1FK4y1W75H",
+            "Japanese": "https://youtu.be/VKd8b989M8g"
+        }
+    },
+    "tutorials_five": {
+        "title": {
+            "English": "myCobot——ROS Tutorials",
+            "Chinese": "myCobot教程——ROS",
+            "Japanese": "myCobot——ROS チュートリアル"
+        },
+        "img": {
+            "English": "static/videoCovers/en_ROs.png",
+            "Chinese": "static/videoCovers/cn_ROs.png",
+            "Japanese": "static/videoCovers/en_ROs.png"
+        },
+        "viewonline": {
+            "English": "https://youtu.be/-Jo_IJ8RaXc",
+            "Chinese": "https://www.bilibili.com/video/BV1Uh41127dZ/",
+            "Japanese": "https://youtu.be/-Jo_IJ8RaXc"
+        }
+    },
+    "tutorials_six": {
+        "title": {
+            "English": "myCobot Repair Vedio —— J4 joint",
+            "Chinese": "myCobot小象机械臂维修视频——J4关节连接线",
+            "Japanese": "Mycobot修復VEdio‐J 4関節"
+        },
+        "img": {
+            "English": "static/videoCovers/en_connectedWires.png",
+            "Chinese": "static/videoCovers/cn_connectedWires.png",
+            "Japanese": "static/videoCovers/en_connectedWires.png"
+        },
+        "viewonline": {
+            "English": "https://youtu.be/1wq0kTJVqw4",
+            "Chinese": "https://www.bilibili.com/video/BV1hK4y157qP",
+            "Japanese": "https://youtu.be/1wq0kTJVqw4"
+        }
+    },
+    "tutorials_seven": {
+        "title": {
+            "English": "myCobot Repair Video——Shell Disassembly",
+            "Chinese": "myCobot维修——外壳更换",
+            "Japanese": "Mycobot修理ビデオ--シェル分解"
+        },
+        "img": {
+            "English": "static/videoCovers/en_shellDisassembly.png",
+            "Chinese": "static/videoCovers/cn_shellDisassembly.png",
+            "Japanese": "static/videoCovers/en_shellDisassembly.png"
+        },
+        "viewonline": {
+            "English": "https://youtu.be/wHzFsExkYrE",
+            "Chinese": "https://www.bilibili.com/video/BV1np4y1x7Lk/",
+            "Japanese": "https://youtu.be/wHzFsExkYrE"
+        }
+    }
+}

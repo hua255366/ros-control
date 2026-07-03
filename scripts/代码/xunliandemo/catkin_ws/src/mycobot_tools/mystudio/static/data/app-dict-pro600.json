@@ -1,0 +1,31 @@
+{
+    "atom": {
+        "AtomMain": {
+            "English": "Used to control mycobot.AtomMain4.0:Fix:myCobot_320 getCoords().Add：jogabsolute() jogincrement() jointbrake() getencoders() writecoord() setgrippervalue() setjointmin/max() getjointmin/max()",
+            "Chinese": "用来控制mycobot。AtomMain4.0:修复:myCobot_320 getCoords().增加：jogabsolute() jogincrement() jointbrake() getencoders() writecoord() setgrippervalue() setjointmin/max() getjointmin/max()",
+            "Japanese": "mycobotをコントロールするために使用します。AtomMain4.0:Fix:myCobot_320 getCoords().Add：jogabsolute() jogincrement() jointbrake() getencoders() writecoord() setgrippervalue() setjointmin/max() getjointmin/max()",
+            "Author": "Elephant Robotics",
+            "Version": {
+                "v3.2": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobotPro600/AtomMain/AtomMainPro600-3.2.bin",
+                        "https://github.com/elephantrobotics/resource/releases/download/1.0/AtomMainPro600-3.2.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/mycobotPro600/AtomMainPro600-3.2.bin"
+                        ],
+                        "linux": [
+                            "static/res/mycobotPro600/AtomMainPro600-3.2.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/mycobotPro600/AtomMainPro600-3.2.bin"
+                        ]
+                    }
+                }
+            },
+            "logo": "static/Topbar/Atom.png",
+            "download": "false"
+        }
+    }
+}

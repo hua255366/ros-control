@@ -1,0 +1,58 @@
+{
+    "basic": {
+        "minirobot": {
+            "English": "This firmware integrates maincontrol calibration transponder information",
+            "Chinese": "此固件集成了maincontrol calibration transponder information",
+            "Japanese": "このファームウェアは、mancontrol caribration transponder informationを統合しています。",
+            "Author": "Elephant Robotics",
+            "Version": {
+                "v1.0": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myPallettizer/minirobot/MyPalletizer_minirobot_1.0.bin",
+                        "https://github.com/elephantrobotics/resource/releases/download/1.0/MyPalletizer_minirobot_1.0.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/MyPalletizer/MyPalletizer_minirobot_1.0.bin"
+                        ],
+                        "linux": [
+                            "static/res/MyPalletizer/MyPalletizer_minirobot_1.0.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/MyPalletizer/MyPalletizer_minirobot_1.0.bin"
+                        ]
+                    }
+                }
+            },
+            "logo": "static/Topbar/basic.png",
+            "download": "false"
+        }
+    },
+    "atom": {
+        "AtomMain": {
+            "English": "Used to control mypalletizer",
+            "Chinese": "用来控制mypalletizer。",
+            "Japanese": "mypallettizerを制御するために使用します。",
+            "Author": "Elephant Robotics",
+            "Version": {
+                "v1.0": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myPallettizer/AtomMain/MyPalletizer_AtomMain_1.0.bin",
+                        "https://github.com/elephantrobotics/resource/releases/download/1.0/MyPalletizer_AtomMain_1.0.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/MyPalletizer/MyPalletizer_AtomMain_1.0.bin"
+                        ],
+                        "linux": [
+                            "static/res/MyPalletizer/MyPalletizer_AtomMain_1.0.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/MyPalletizer/MyPalletizer_AtomMain_1.0.bin"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

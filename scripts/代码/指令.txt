@@ -1,0 +1,38 @@
+作弊指令：
+cd manufactureTest/scripts/
+python test.py
+
+打开定位与建图 ：
+roslaunch robuster_mr_navigation mapping.launch
+
+保存地图：
+	rosservice call /finish_trajectory 0    //停止接收传感器数据
+rosservice call /write_state "{filename: '{HOME}/Downloads/mymap.pbstream'}"//生成.pbstream 文件
+
+	rosrun cartographer_ros cartographer_pbstream_to_ros_map -map_filestem={HOME}/Downloads/mymap -pbstream_filename={HOME}/Downloads/mymap.pbstream-resolution=0.05
+
+加载上个实验保存的地图：
+roslaunch robuster_mr_navigation navigation.launch
+
+
+机械臂：
+
+打开图形化编程界面:
+cd ~/catkin_ws/src/mycobot_tools/myblockly/
+./myblockly
+
+cd ~/beetle_ai/scripts
+
+python aruco_grab_2.py
+
+python color_grab_2.py
+
+打开图形化编程界面:
+cd ~/catkin_ws/src/mycobot_tools/myblockly/
+./myblockly
+
+cd ~/beetle_ai/scripts
+python3 zero_calib_gui.py
+
+
+低头：coords_ready = [210, -30, 240, -175, 0, -138]

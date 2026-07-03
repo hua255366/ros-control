@@ -1,0 +1,66 @@
+#first 
+At time 1749285244.457
+- Translation: [0.125, -1.106, 0.000]
+- Rotation: in Quaternion [0.000, 0.000, 0.159, 0.987]
+            in RPY (radian) [0.000, -0.000, 0.320]
+            in RPY (degree) [0.000, -0.000, 18.317]
+#next
+At time 1749289736.560
+- Translation: [0.130, -1.365, 0.000]
+- Rotation: in Quaternion [0.000, 0.000, 0.994, -0.109]
+            in RPY (radian) [0.000, 0.000, -2.923]
+            in RPY (degree) [0.000, 0.000, -167.503]
+#third
+At time 1749285534.223
+- Translation: [-0.400, -0.054, 0.000]
+- Rotation: in Quaternion [-0.000, -0.000, 0.795, 0.607]
+            in RPY (radian) [-0.000, -0.000, 1.837]
+            in RPY (degree) [-0.000, -0.000, 105.270]
+#fourth
+At time 1749285609.358
+- Translation: [-0.595, 1.000, 0.000]
+- Rotation: in Quaternion [-0.000, -0.000, 0.790, 0.613]
+            in RPY (radian) [-0.000, -0.000, 1.821]
+            in RPY (degree) [-0.000, -0.000, 104.337]
+
+
+
+
+
+
+NEXT
+#1
+At time 1749291714.515
+- Translation: [1.805, 0.390, 0.000]
+- Rotation: in Quaternion [0.000, 0.000, 0.779, 0.627]
+            in RPY (radian) [0.000, -0.000, 1.787]
+            in RPY (degree) [0.000, -0.000, 102.363]
+
+#2
+^CAt time 1749291854.707
+- Translation: [1.865, 0.171, 0.000]
+- Rotation: in Quaternion [0.000, 0.000, -0.659, 0.752]
+            in RPY (radian) [0.000, 0.000, -1.440]
+            in RPY (degree) [0.000, 0.000, -82.489]
+
+#3
+At time 1749292020.625
+- Translation: [0.329, 0.087, 0.000]
+- Rotation: in Quaternion [0.000, 0.000, 0.999, -0.049]
+            in RPY (radian) [0.000, 0.000, -3.043]
+            in RPY (degree) [0.000, 0.000, -174.368]
+
+
+#4
+At time 1749292056.050
+- Translation: [-0.429, -0.243, 0.000]
+- Rotation: in Quaternion [0.000, 0.000, 0.995, -0.105]
+            in RPY (radian) [0.000, 0.000, -2.932]
+            in RPY (degree) [0.000, 0.000, -167.990]
+
+#7
+At time 1749292145.971
+- Translation: [0.837, 0.167, 0.000]
+- Rotation: in Quaternion [0.000, 0.000, 0.014, 1.000]
+            in RPY (radian) [0.000, -0.000, 0.027]
+            in RPY (degree) [0.000, -0.000, 1.573]

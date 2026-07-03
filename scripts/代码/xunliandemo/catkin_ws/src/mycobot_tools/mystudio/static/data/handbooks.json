@@ -1,0 +1,41 @@
+{
+    "handbook_one": {
+        "title": {
+            "English": "User manual",
+            "Chinese": "用户手册",
+            "Japanese": "ユーザマニュアル"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/resource/releases/download/1.0/myCobot-User-Mannul-EN-V20201231.pdf",
+            "Chinese": "https://www.elephantrobotics.com/wp-content/uploads/2020/12/myCobot-用户手册-V20201231.pdf",
+            "Japanese": "https://www.elephantrobotics.com/wp-content/uploads/2020/12/myCobot-User-Mannul-EN-V20201231.pdf"
+        },
+        "img": "static/Topbar/PDF.png"
+    },
+    "handbook_two": {
+        "title": {
+            "English": "Product_intro",
+            "Chinese": "产品画册",
+            "Japanese": "イントロメンツ"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/resource/releases/download/1.0/myCobot-brochure-EN-0108.pdf",
+            "Chinese": "https://www.elephantrobotics.com/wp-content/uploads/2020/12/myCobot-产品画册-CN-1230.pdf",
+            "Japanese": "https://www.elephantrobotics.com/wp-content/uploads/2021/01/myCobot-brochure-EN-0108.pdf"
+        },
+        "img": "static/Topbar/PDF.png"
+    },
+    "handbook_three": {
+        "title": {
+            "English": "Communication and API",
+            "Chinese": "开发引导手册",
+            "Japanese": "コミュニケーションとAPI"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/resource/releases/download/1.0/myCobot-Development-Manual-V20210112.pdf",
+            "Chinese": "https://www.elephantrobotics.com/wp-content/uploads/2021/01/myCobot-开发引导手册-V20210112.pdf",
+            "Japanese": "https://www.elephantrobotics.com/wp-content/uploads/2021/01/myCobot-Development-Manual-V20210112.pdf"
+        },
+        "img": "static/Topbar/PDF.png"
+    }
+}

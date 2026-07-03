@@ -1,0 +1,255 @@
+{
+    "software_one": {
+        "title": {
+            "English": "Basic serial port driver",
+            "Chinese": "Basic串口驱动",
+            "Japanese": "Basic なシリアルポートドライバー"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/myStudio/releases/download/v0.0.5/CP210x_VCP_Windows.zip",
+            "Chinese": "https://www.elephantrobotics.com/software/mystudio/driver/CP210x_VCP_Windows.zip",
+            "Japanese": "https://github.com/elephantrobotics/myStudio/releases/download/v0.0.5/CP210x_VCP_Windows.zip"
+        },
+        "img": "static/Topbar/Endeffector-Test.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        }
+    },
+    "software_two": {
+        "title": {
+            "English": "Atom serial port driver",
+            "Chinese": "Atom串口驱动",
+            "Japanese": "Atom なシリアルポートドライバー"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/myStudio/releases/download/v0.0.5/CDM21228_Setup.zip",
+            "Chinese": "https://www.elephantrobotics.com/software/mystudio/driver/CDM21228_Setup.zip",
+            "Japanese": "https://github.com/elephantrobotics/myStudio/releases/download/v0.0.5/CDM21228_Setup.zip"
+        },
+        "img": "static/Topbar/Endeffector-Test.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        }
+    },
+    "software_three": {
+        "title": {
+            "English": "MyPainter-Drawing board",
+            "Chinese": "MyPainter-画画板",
+            "Japanese": "MyPainter-製図板"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/myPainter/releases/tag/v1.1",
+            "Chinese": "https://www.elephantrobotics.com/software/MyPainter/",
+            "Japanese": "https://github.com/elephantrobotics/myPainter/releases/tag/v1.1"
+        },
+        "img": "static/Topbar/DrawingAPP.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "This tool can use the mouse to control myCobot drawing, and it can also import svg file！",
+            "Chinese": "这个工具可以使用鼠标控制myCobot画画，还能导入svg图！",
+            "Japanese": "このツールは、マウスを使用してmyCobotの描画を制御でき、svg画像をインポートすることもできます！"
+        }
+    },
+    "software_four": {
+        "title": {
+            "English": "Ui Flow online",
+            "Chinese": "Ui Flow 在线版",
+            "Japanese": "Ui Flow online"
+        },
+        "url": {
+            "English": "https://flow.m5stack.com",
+            "Chinese": "https://flow.m5stack.com",
+            "Japanese": "https://flow.m5stack.com"
+        },
+        "img": "static/Topbar/UIFlow.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        }
+    },
+    "software_five": {
+        "title": {
+            "English": "Ui Flow firmware",
+            "Chinese": "Ui Flow 固件",
+            "Japanese": "Ui Flow firmware"
+        },
+        "url": {
+            "English": "https://shop.m5stack.com/pages/download",
+            "Chinese": "https://shop.m5stack.com/pages/download",
+            "Japanese": "https://shop.m5stack.com/pages/download"
+        },
+        "img": "static/Topbar/UIFlow.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        }
+    },
+    "software_six": {
+        "title": {
+            "English": "Leap Motion Controller",
+            "Chinese": "Leap Motion Controller",
+            "Japanese": "Leap Motion Controller"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/LeapMotionController",
+            "Chinese": "https://github.com/elephantrobotics/LeapMotionController",
+            "Japanese": "https://github.com/elephantrobotics/LeapMotionController"
+        },
+        "img": "static/Topbar/Waypoints.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "Used to control mycobot by hand",
+            "Chinese": "用手控制mycobot",
+            "Japanese": "手でmycobotを制御します。"
+        }
+    },
+    "software_seven": {
+        "title": {
+            "English": "MyCobot Ros",
+            "Chinese": "MyCobot Ros",
+            "Japanese": "MyCobot Ros"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/mycobot_ros",
+            "Chinese": "https://github.com/elephantrobotics/mycobot_ros",
+            "Japanese": "https://github.com/elephantrobotics/mycobot_ros"
+        },
+        "img": "static/Topbar/JogMode.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        }
+    },
+    "software_eight": {
+        "title": {
+            "English": "QuickMove",
+            "Chinese": "QuickMove",
+            "Japanese": "QuickMove"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/QuickMove",
+            "Chinese": "https://github.com/elephantrobotics/QuickMove",
+            "Japanese": "https://github.com/elephantrobotics/QuickMove"
+        },
+        "img": "static/Topbar/JogMode.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "quick to control MyCobot",
+            "Chinese": "快速的控制MyCobot",
+            "Japanese": "迅速に制御するMycobot"
+        }
+    },
+    "software_nine": {
+        "title": {
+            "English": "PhoneAPP_connector",
+            "Chinese": "APP-控制器",
+            "Japanese": "PhoneAPP_connector"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/myStudio/blob/main/PhoneApp-connector.png",
+            "Chinese": "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/PhoneApp-connector.png",
+            "Japanese": "https://github.com/elephantrobotics/myStudio/blob/main/PhoneApp-connector.png"
+        },
+        "img": "static/Topbar/PhoneAPP-connector.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "Please scan the QR code to download app！",
+            "Chinese": "            请扫面二维码下载APP！",
+            "Japanese": "アプリをダウンロードしてQRコードをスキャンしてください！"
+        }
+    },
+    "software_ten": {
+        "title": {
+            "English": "RoboFlow",
+            "Chinese": "RoboFlow",
+            "Japanese": "RoboFlow"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/RoboFlow/releases/tag/v3.4.0",
+            "Chinese": "https://www.elephantrobotics.com/software/RoboFlow/",
+            "Japanese": "https://github.com/elephantrobotics/RoboFlow/releases/tag/v3.4.0"
+        },
+        "img": "static/Topbar/RoboFlow.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "Roboflow is the operating system of elephant cooperative robot, which can interact with elephant robot",
+            "Chinese": "RoboFlow是大象协作型机器人的操作系统,可以与大象机器人进行交互",
+            "Japanese": "RoboFlowは象の協力型ロボットの操作システムで、象ロボットと相互作用ができます。"
+        }
+    },
+    "software_eleven": {
+        "title": {
+            "English": "Myblockly",
+            "Chinese": "Myblockly",
+            "Japanese": "Myblockly"
+        },
+        "url": {
+            "English": "https://github.com/elephantrobotics/myCobot/releases/tag/v0.0.5",
+            "Chinese": "https://www.elephantrobotics.com/software/myblockly/",
+            "Japanese": "https://github.com/elephantrobotics/myCobot/releases/tag/v0.0.5"
+        },
+        "img": "static/Topbar/JogMode.png",
+        "qrcode": {
+            "English": "",
+            "Chinese": "",
+            "Japanese": ""
+        },
+        "tips": {
+            "English": "A graphical programming application for controlling mycobot",
+            "Chinese": "用于控制mycobot的一款图形化编程应用",
+            "Japanese": "mycobotを制御するためのグラフィカルなプログラミングアプリケーションです。"
+        }
+    }
+}

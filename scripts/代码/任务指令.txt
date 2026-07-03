@@ -1,0 +1,39 @@
+#任务一、二路径
+cd ~/HMY3
+#任务三路径
+cd HMY3/catkin_ws/src/mobile_fetch/scripts/
+
+#运行任务一（连续）
+python pro_1_1.py
+#运行任务一（单次）
+python pro_1_end.py
+#运行任务二
+python pro_2.py
+#运行任务三
+python task3_1_right.py
+
+#建图
+python step1_mapping.py
+#保存地图
+python step2_savemap.py
+#打开地图
+python step3_loadmap_relocalization.py
+
+
+#保存第一个点（中点）
+！！！！！！！！！！！！！！！
+！！！请问你重定位了吗！！！！
+！！！！！！！！！！！！！！！
+python save_goal_right_center.py
+
+#保存第二个点（定位点）
+python save_goal_right_dingwei.py
+#保存第三个点（终点）
+python save_goal_right_end.py
+#回到初始位置
+python task3_2_return_right_end.py
+
+#任务一抬头动作
+python move_zuobiao1.py
+#任务二低头动作
+python move_zuobiao.py

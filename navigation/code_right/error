@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "main.py", line 242, in <module>
+    detect_result = follow.moving_search()
+  File "/home/robuster/czc_robuster/code_right/obj_follow.py", line 98, in moving_search
+    final_obj_info = self.get_average_position()
+  File "/home/robuster/czc_robuster/code_right/obj_follow.py", line 76, in get_average_position
+    return (avg_x, avg_y, obj_info[2], obj_info[3], obj_info[4])
+TypeError: 'NoneType' object has no attribute '__getitem__'
